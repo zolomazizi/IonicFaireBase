@@ -1,0 +1,8 @@
+{
+  "name": "testingIonic",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
